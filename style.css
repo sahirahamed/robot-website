@@ -2021,18 +2021,6 @@ align-items: center;
 margin-top: 10px;
 margin-bottom: 10px;
 }
-.image-palaces{
-display: flex;
-flex-direction: row;
-
-}
-.brandings{
-display: flex;
-flex-direction: column;
-margin-left: 15px;
-margin-top: 56px;
-
-}
 .last-section{
 
 display: none;
@@ -2550,18 +2538,8 @@ align-items: center;
 margin-top: 10px;
 margin-bottom: 10px;
 }
-.image-palaces{
-display: flex;
-flex-direction: row;
 
-}
-.brandings{
-display: flex;
-flex-direction: column;
-margin-left: 15px;
-margin-top: 56px;
 
-}
 .last-section{
 
 display: none;
