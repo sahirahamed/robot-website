@@ -349,6 +349,10 @@ display: none;
   margin-top: 10px;
   margin-bottom: 20px;
 }
+.leadings{
+display: none;
+
+}
 .learning {
   margin-top: 20px;
 }
