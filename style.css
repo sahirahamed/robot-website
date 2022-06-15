@@ -1571,7 +1571,7 @@ margin-top: 20px;
 
 }
 .deploys{
-margin-left: 130px;
+margin-left: 120px;
 
 }
 .image-places{
@@ -1691,7 +1691,7 @@ flex-direction: row;
 margin-left: 10px;
 }
 .whole {
-height: 340px;
+height: 370px;
 width: 85vw;
 display: flex;
 flex-direction: column;
@@ -1720,7 +1720,7 @@ align-items: flex-start;
 color: #767676;
 font-size: 18px;
 margin-top: 20px;
-line-height: 1.2em;
+line-height: 1.5em;
 }
 .code {
 display: flex;
@@ -1743,7 +1743,7 @@ margin-left: 10px;
 background-color: rgb(246, 246, 246);
 }
 .quick {
-font-size: 15px;
+font-size: 17px;
 color: #222222;
 line-height: 1.5em;
 margin-top: 20px;
@@ -1974,7 +1974,7 @@ flex-direction: column;
 color: white;
 }
 .else {
-margin-left: 70px;
+margin-left: 40px;
 color: #1d92cf;
 font-size: 20px;
 margin-top: 20px;
@@ -2096,7 +2096,7 @@ overflow: auto;
 font-weight: bold;
 
 }
-.leading{
+.leadings{
 
 display: none;
 }
@@ -2260,7 +2260,7 @@ margin-left: 10px;
 background-color: rgb(246, 246, 246);
 }
 .quick {
-font-size: 15px;
+font-size: 17px;
 color: #222222;
 line-height: 1.5em;
 margin-top: 20px;
@@ -2491,7 +2491,7 @@ flex-direction: column;
 color: white;
 }
 .else {
-margin-left: 70px;
+margin-left: 40px;
 color: #1d92cf;
 font-size: 20px;
 margin-top: 20px;
