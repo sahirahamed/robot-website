@@ -1106,7 +1106,7 @@ margin-left: 10px;
   margin-left: 10px;
 }
 .whole {
-  height: 340px;
+  height: 390px;
   width: 85vw;
   display: flex;
   flex-direction: column;
@@ -1342,7 +1342,7 @@ display: block;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 .image-palace {
   display: flex;
@@ -1691,7 +1691,7 @@ flex-direction: row;
 margin-left: 10px;
 }
 .whole {
-height: 370px;
+height: 400px;
 width: 85vw;
 display: flex;
 flex-direction: column;
@@ -1927,7 +1927,7 @@ font-size: 25px;
 display: flex;
 flex-direction: row;
 justify-content: center;
-margin-top: 30px;
+margin-top: 50px;
 }
 .image-palace {
 display: flex;
@@ -2115,7 +2115,7 @@ display: none;
   flex-direction: column;
   margin-left: 10px;
   align-items: center;
-  height: 520px;
+  height: 550px;
   width: 250px;
   font-size: 15px;
   line-height: 1.5em;
@@ -2208,7 +2208,7 @@ flex-direction: row;
 margin-left: 10px;
 }
 .whole {
-height: 340px;
+height: 390px;
 width: 85vw;
 display: flex;
 flex-direction: column;
@@ -2444,7 +2444,7 @@ font-size: 25px;
 display: flex;
 flex-direction: row;
 justify-content: center;
-margin-top: 30px;
+margin-top: 50px;
 }
 .image-palace {
 display: flex;
@@ -2633,9 +2633,9 @@ display: none;
   flex-direction: column;
   margin-left: 10px;
   align-items: center;
-  height: 520px;
+  height: 600px;
   width: 350px;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.5em;
   color: #333333;
   margin-top: 20px;
