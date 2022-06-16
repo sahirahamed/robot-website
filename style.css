@@ -198,7 +198,7 @@ display: block;
 .project {
   display: flex;
   flex-direction: column;
-  height: 600px;
+  height: 620px;
   width: 360px;
   margin-left: 50px;
   /* background-color: rgb(246, 246, 246); */
@@ -1146,7 +1146,7 @@ margin-left: 10px;
 .project {
   display: flex;
   flex-direction: column;
-  height: 600px;
+  height: 650px;
   width: 360px;
   margin-left: 20px;
   /* background-color: rgb(246, 246, 246); */
@@ -1731,7 +1731,7 @@ margin-top: 50px;
 .project {
 display: flex;
 flex-direction: column;
-height: 600px;
+height: 650px;
 width: 360px;
 margin-left: 20px;
 /* background-color: rgb(246, 246, 246); */
@@ -2248,7 +2248,7 @@ margin-top: 50px;
 .project {
 display: flex;
 flex-direction: column;
-height: 600px;
+height: 650px;
 width: 360px;
 margin-left: 20px;
 /* background-color: rgb(246, 246, 246); */
